@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.69.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-win-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-ab-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-nio-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/net.oauth_0.2.3000.v20160630_1732.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.codec_1.3.0.v20100518-1140.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.httpclient_3.1.0.v201005080502.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.logging_1.0.4.v201005080501.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.log4j_1.2.15.v201012070815.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
